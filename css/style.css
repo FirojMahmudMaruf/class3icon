@@ -1,0 +1,31 @@
+body{
+	margin:0;
+	padding:0;
+}
+.container{
+	high:100%;
+	width:80%;
+	margin:auto;
+	background-color:gray;
+}
+.icon ul{
+	list-style:none;
+}
+.icon ul li{
+	display:inline-block;
+	margin-top:10px;
+}
+.icon ul li a{
+	background:red;
+	color:white;
+	padding:30px 45px;
+	font-size:40px;
+	text-decoration:none;
+	display:inline-block;
+	margin:auto;
+}
+.icon ul li a:hover{
+	background:pink;
+	color:black;
+	border-radius:15px;
+}
